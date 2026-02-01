@@ -26,5 +26,4 @@ The program validates all inputs and handles missing or invalid data
 by displaying appropriate error messages.
 
 ## Conclusion
-The project successfully meets the requirements of the assignment.
-Future improvements could include database support or a GUI interface.
+The project meets the requirements of the assignment.
