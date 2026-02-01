@@ -1,3 +1,6 @@
+/*PROJECT: STUDENT REGISTRY GRADES SYSTEM
+* THIS PROJECT WAS DONE BY ANXHELA LIKCANI AND ELIORA QENDRO*/
+
 package unyt.registry;
 
 import java.util.Scanner;
